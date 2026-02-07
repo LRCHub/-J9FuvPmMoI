@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "Sparkle - movie ver.",
+  "base_artist": "RADWIMPS",
+  "createdAt": "2026-02-07T10:48:28.295709Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sparkle",
+      "artist": "Cameo",
+      "has_synced": false,
+      "path": "select/01_Sparkle_Cameo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sparkle",
+      "artist": "Cameo",
+      "has_synced": true,
+      "path": "select/02_Sparkle_Cameo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Penny Sparkle",
+      "artist": "Blonde Redhead",
+      "has_synced": true,
+      "path": "select/03_Penny_Sparkle_Blonde_Redhead.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sparkle",
+      "artist": "Blue Hawaii",
+      "has_synced": false,
+      "path": "select/04_Sparkle_Blue_Hawaii.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sparkle",
+      "artist": "Camp Lo",
+      "has_synced": false,
+      "path": "select/05_Sparkle_Camp_Lo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sparkle - Mr. Midnight Mix",
+      "artist": "Camp Lo",
+      "has_synced": false,
+      "path": "select/06_Sparkle_-_Mr._Midnight_Mix_Camp_Lo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sparkle",
+      "artist": "No Doubt",
+      "has_synced": true,
+      "path": "select/07_Sparkle_No_Doubt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sparkle",
+      "artist": "Afterhours",
+      "has_synced": false,
+      "path": "select/08_Sparkle_Afterhours.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sparkle",
+      "artist": "Sophie Ellis-Bextor",
+      "has_synced": true,
+      "path": "select/09_Sparkle_Sophie_Ellis-Bextor.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sparkle",
+      "artist": "Sophie Ellis-Bextor",
+      "has_synced": true,
+      "path": "select/10_Sparkle_Sophie_Ellis-Bextor.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sparkle City",
+      "artist": "Shuggie Otis",
+      "has_synced": false,
+      "path": "select/11_Sparkle_City_Shuggie_Otis.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sparkle - Movie Ver.",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/12_Sparkle_-_Movie_Ver._RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sparkle (movie ver.)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/13_Sparkle_(movie_ver.)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sparkle - movie ver",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/14_Sparkle_-_movie_ver_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sparkle (movie ver.)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/15_Sparkle_(movie_ver.)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sparkle(movie ver.) feat.Harutya",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/16_Sparkle(movie_ver.)_feat.Harutya_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Supākuru [Sparkle] (movie ver.)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/17_Supākuru_[Sparkle]_(movie_ver.)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sparkle (movie ver.) (Originally Performed by RADWIMPS from \"Your Name.\") -Orgel-",
+      "artist": "MIDORI ORGEL",
+      "has_synced": false,
+      "path": "select/18_Sparkle_(movie_ver.)_(Originally_Performed_by_RADWIMPS_from__Your_Name._)_-Orgel_MIDORI_ORGEL.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Sparkle (movie ver.)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/19_Sparkle_(movie_ver.)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Sparkle (movie ver.)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/20_Sparkle_(movie_ver.)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Sparkle (movie ver․)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/21_Sparkle_(movie_ver.)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Sparkle (movie ver.)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/22_Sparkle_(movie_ver.)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Sparkle (Movie Ver.)",
+      "artist": "Rawimps",
+      "has_synced": true,
+      "path": "select/23_Sparkle_(Movie_Ver.)_Rawimps.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sparkle (Movie Version)",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_Sparkle_(Movie_Version)_RADWIMPS.txt"
+    }
+  ]
+}
